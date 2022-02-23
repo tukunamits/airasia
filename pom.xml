@@ -7,7 +7,7 @@
   <groupId>airasia</groupId>
   <artifactId>ticketbooking</artifactId>
   <version>1.0</version>
-  <package>war</package>
+  <packaging>war</packaging>
 
   <name>ticketbooking</name>
   <!-- FIXME change it to the project's website -->
